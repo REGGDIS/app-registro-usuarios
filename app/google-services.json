@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449475626740",
+    "project_id": "evaluacion-unidad2",
+    "storage_bucket": "evaluacion-unidad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449475626740:android:4311b543964fb87e2880a1",
+        "android_client_info": {
+          "package_name": "com.reg.evaluacionunidad2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHyxML2lm1H_K0_7oSRTvutKEskg26yAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
